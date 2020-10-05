@@ -1,0 +1,31 @@
+Para el correcto desarrollo de la práctica 7 de TOC (Computador Sencillo
+CS1) tenéis que seguir las siguientes instrucciones:
+
+a)     Descargar el fichero CS1_VersiónEstudiante_LW4_Vb.zip desde el
+directorio de la Práctica 7 que está en la plataforma SWAD. El fichero está
+comprimido. Hay que descomprimirlo para obtener el fichero en formato *.cct
+que es el que acepta el simulador LogicWorks.
+
+b)    Ejecutar en el simulador el fichero LogicWorks
+CS1_VersiónEstudiante_LW4_Vb.
+
+c)     Seguir las instrucciones de la Práctica 7.
+
+d)    Cargar el programa de prueba y ejecutarlo paso a paso y seguir la
+ejecución del programa en la hoja con las instrucciones, ciclos y
+variaciones de registros que le entregue el profesor y que también está
+disponible en SWAD.
+
+e)     Descargar de SWAD e imprimir el documento:
+PRACTICA_7_TOC_TABLA_CICLOS_COMPLETA.PDF para utilizarlo durante la
+práctica.
+
+
+
+Un saludo.
+
+MANUEL RODRÍGUEZ ÁLVAREZ
+Departamento de Arquitectura y Tecnología de Computadores.
+E.T.S. Ingenierías Informática y de Telecomunicación.
+Universidad de Granada.
+C/ Periodista Daniel Saucedo Aranda 

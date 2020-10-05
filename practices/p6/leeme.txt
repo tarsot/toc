@@ -1,0 +1,5 @@
+Ejercicio 6.1
+
+Contador descendente (hacia atrás)
+
+Módulo 10: repite la secuencia tras 10 ciclos de reloj.
