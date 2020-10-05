@@ -7,4 +7,4 @@ git add --all
 sleep 1
 git commit -m "Updated"
 sleep 1
-git push origin dev
+git push origin master
